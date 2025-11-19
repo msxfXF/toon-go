@@ -11,7 +11,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/toon-format/toon-go"
+	"github.com/msxfXF/toon-go"
 )
 
 type fixtureFile struct {

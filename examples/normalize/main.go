@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/toon-format/toon-go"
+	"github.com/msxfXF/toon-go"
 )
 
 func main() {

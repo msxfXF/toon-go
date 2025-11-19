@@ -7,8 +7,8 @@ import (
 	"strings"
 	"unicode"
 
-	formatpkg "github.com/toon-format/toon-go/internal/format"
-	parsepkg "github.com/toon-format/toon-go/internal/parse"
+	formatpkg "github.com/msxfXF/toon-go/internal/format"
+	parsepkg "github.com/msxfXF/toon-go/internal/parse"
 )
 
 // Decoder parses TOON documents into Go values that match the data model from

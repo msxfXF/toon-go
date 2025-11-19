@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/toon-format/toon-go"
+	"github.com/msxfXF/toon-go"
 )
 
 type MetricEvent struct {

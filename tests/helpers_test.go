@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/toon-format/toon-go"
+	"github.com/msxfXF/toon-go"
 )
 
 func expectLines(t *testing.T, doc string, want ...string) {

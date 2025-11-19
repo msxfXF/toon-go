@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/toon-format/toon-go"
+	"github.com/msxfXF/toon-go"
 )
 
 func TestMarshalTabularArray(t *testing.T) {

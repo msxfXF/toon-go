@@ -8,7 +8,7 @@ package toon
 import (
 	"time"
 
-	"github.com/toon-format/toon-go/internal/codec"
+	"github.com/msxfXF/toon-go/internal/codec"
 )
 
 // Delimiter identifies the character used to split values inside array scopes.

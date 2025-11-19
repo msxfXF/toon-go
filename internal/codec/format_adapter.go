@@ -3,7 +3,7 @@ package codec
 import (
 	"fmt"
 
-	formatpkg "github.com/toon-format/toon-go/internal/format"
+	formatpkg "github.com/msxfXF/toon-go/internal/format"
 )
 
 type formatContext struct {
